@@ -112,11 +112,3 @@ Une fiche plus détaillée est disponible dans
 └── tests/
     └── test_sunflower.py
 ```
-
-## Licence
-
-Aucune licence n'a encore été choisie. Avant de publier le dépôt, décide si tu
-veux autoriser la réutilisation du code et ajoute la licence correspondante.
-Sans licence, les droits d'auteur restent réservés par défaut ; le dépôt public
-ne signifie pas automatiquement que d'autres personnes peuvent réutiliser le
-contenu.
