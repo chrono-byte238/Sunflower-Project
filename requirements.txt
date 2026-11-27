@@ -1,0 +1,6 @@
+# Bibliotheque externe necessaire pour dessiner et lire les GIF.
+Pillow>=10.1
+
+# Modules fournis avec Python (ne pas installer avec pip) :
+# argparse, hashlib, math, pathlib, textwrap, tkinter, tempfile, unittest
+# Tkinter peut necessiter un paquet systeme separe sur certaines distributions Linux.
